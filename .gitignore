@@ -1,0 +1,11 @@
+/Demo.Web/obj/Docker/*.cache
+/Demo.WebApi/obj/Debug/netcoreapp2.1/*.cache
+/Demo.WebApi/obj/*.cache
+/Demo.WebApi/obj/Docker/*.cache
+/obj/Docker/*.cache
+/.vs/CsharpFanDemo/v15/Server/sqlite3/*.lock
+/.vs/CsharpFanDemo/v15/*.suo
+/Demo.WebApi/*.user
+/.vs/CsharpFanDemo/v15/Server/sqlite3/*.ide
+/.vs/CsharpFanDemo/v15/Server/sqlite3/*.ide-shm
+/.vs/CsharpFanDemo/v15/Server/sqlite3/*.ide-wal

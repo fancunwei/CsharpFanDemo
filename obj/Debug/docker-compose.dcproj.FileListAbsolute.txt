@@ -1,0 +1,1 @@
+E:\LearnWall\CsharpFanDemo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

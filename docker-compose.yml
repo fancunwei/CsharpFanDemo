@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  demo.web:
+    image: ${DOCKER_REGISTRY}demoweb
+    build:
+      context: .
+      dockerfile: Demo.Web\Dockerfile
+
+  demo.webapi:
+    image: ${DOCKER_REGISTRY}demowebapi
+    build:
+      context: .
+      dockerfile: Demo.WebApi\Dockerfile
+

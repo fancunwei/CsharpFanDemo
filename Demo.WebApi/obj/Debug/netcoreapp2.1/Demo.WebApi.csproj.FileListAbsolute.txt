@@ -1,0 +1,15 @@
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\bin\Debug\netcoreapp2.1\Demo.WebApi.deps.json
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\bin\Debug\netcoreapp2.1\Demo.WebApi.runtimeconfig.json
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\bin\Debug\netcoreapp2.1\Demo.WebApi.runtimeconfig.dev.json
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\bin\Debug\netcoreapp2.1\Demo.WebApi.dll
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\bin\Debug\netcoreapp2.1\Demo.WebApi.pdb
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.csproj.CoreCompileInputs.cache
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.RazorAssemblyInfo.cache
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.RazorAssemblyInfo.cs
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.AssemblyInfoInputs.cache
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.AssemblyInfo.cs
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.RazorTargetAssemblyInfo.cache
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.dll
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.pdb
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.csprojAssemblyReference.cache
