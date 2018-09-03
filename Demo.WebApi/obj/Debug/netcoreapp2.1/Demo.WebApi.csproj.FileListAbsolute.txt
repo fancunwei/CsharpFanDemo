@@ -12,4 +12,3 @@ E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.Assem
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.RazorTargetAssemblyInfo.cache
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.dll
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.pdb
-E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.csprojAssemblyReference.cache
