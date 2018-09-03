@@ -9,3 +9,10 @@
 /.vs/CsharpFanDemo/v15/Server/sqlite3/*.ide
 /.vs/CsharpFanDemo/v15/Server/sqlite3/*.ide-shm
 /.vs/CsharpFanDemo/v15/Server/sqlite3/*.ide-wal
+/Demo.QueueDemo/bin/Debug/netcoreapp2.1/Demo.QueueDemo.dll
+/Demo.QueueDemo/obj/Debug/netcoreapp2.1/Demo.QueueDemo.AssemblyInfoInputs.cache
+/Demo.QueueDemo/obj/Debug/netcoreapp2.1/Demo.QueueDemo.assets.cache
+/Demo.QueueDemo/obj/Debug/netcoreapp2.1/Demo.QueueDemo.csproj.CoreCompileInputs.cache
+/Demo.QueueDemo/obj/Debug/netcoreapp2.1/Demo.QueueDemo.csprojAssemblyReference.cache
+/Demo.QueueDemo/obj/Debug/netcoreapp2.1/Demo.QueueDemo.dll
+/Demo.QueueDemo/obj/Demo.QueueDemo.csproj.nuget.cache
