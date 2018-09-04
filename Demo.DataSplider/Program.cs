@@ -1,4 +1,5 @@
 ﻿using Demo.DataSplider.DemoPick;
+using Demo.DataSplider.Models;
 using System;
 
 namespace Demo.DataSplider
@@ -14,13 +15,20 @@ namespace Demo.DataSplider
             //parse.FromString();
             //parse.FromWeb();
 
-            //演示从博客园获取信息
-            var one = new StepOne();
-            var list = one.ParseCnBlogs();
-            foreach (var i in list)
-            {
-                Console.WriteLine($"作者：{i.Author},     推荐数：{i.Diggit},   评论数：{i.Comment}, 阅读数：{i.View},   标题:{i.Title}");
-            }
+            ////演示从博客园获取信息
+            //var one = new StepOne();
+            //var list = one.ParseCnBlogs();
+            //foreach (var i in list)
+            //{
+            //    Console.WriteLine($"作者：{i.Author},     推荐数：{i.Diggit},   评论数：{i.Comment}, 阅读数：{i.View},   标题:{i.Title}");
+            //}
+
+            //演示自定义规则
+            var two = new StepTwo();
+            // two.RunArticleRule();
+            //two.RunArticleDetail();
+            two.RunWeather();
+
 
             Console.ReadKey();
 

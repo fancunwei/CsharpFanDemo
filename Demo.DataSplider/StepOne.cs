@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace Demo.DataSplider
 {
+    /// <summary>
+    /// 采集博客园首页demo
+    /// </summary>
     public class StepOne
     {
         /// <summary>
@@ -48,7 +51,7 @@ namespace Demo.DataSplider
                 article.Diggit = int.Parse(diggnumnode.InnerText);
                 article.Title = titlenode.InnerText;
                 article.Url = titlenode.Attributes["href"].Value;
-                article.Summary = titlenode.InnerHtml;
+                article.Summary = summarynode.InnerHtml;
                 article.Author = authornode.InnerText;
                 article.AuthorUrl = authornode.Attributes["href"].Value;
 
