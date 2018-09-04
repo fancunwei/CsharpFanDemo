@@ -33,9 +33,10 @@ namespace Demo.DataSplider
                 var diggnumnode = item.SelectSingleNode("*//span[@class='diggnum']");
                 //body
                 var post_item_bodynode = item.SelectSingleNode("div[@class='post_item_body']");
-
-                var titlenode = post_item_bodynode.SelectSingleNode("*//a[@class='titlelnk']");
-
+                //写法一
+                //var titlenode = post_item_bodynode.SelectSingleNode("*//a[@class='titlelnk']");
+                //写法二
+                var titlenode = post_item_bodynode.SelectSingleNode(post_item_bodynode.XPath+"//a[@class='titlelnk']");
                 var summarynode = post_item_bodynode.SelectSingleNode("p[@class='post_item_summary']");
                 //foot
                 var footnode = post_item_bodynode.SelectSingleNode("div[@class='post_item_foot']");
