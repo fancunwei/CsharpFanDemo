@@ -1,0 +1,12 @@
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\bin\Debug\netcoreapp2.1\Demo.ZipkinCommon.deps.json
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\bin\Debug\netcoreapp2.1\Demo.ZipkinCommon.dll
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\bin\Debug\netcoreapp2.1\Demo.ZipkinCommon.pdb
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\obj\Debug\netcoreapp2.1\Demo.ZipkinCommon.csproj.CoreCompileInputs.cache
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\obj\Debug\netcoreapp2.1\Demo.ZipkinCommon.AssemblyInfoInputs.cache
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\obj\Debug\netcoreapp2.1\Demo.ZipkinCommon.AssemblyInfo.cs
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\obj\Debug\netcoreapp2.1\Demo.ZipkinCommon.dll
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\obj\Debug\netcoreapp2.1\Demo.ZipkinCommon.pdb
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\obj\Debug\netcoreapp2.1\Demo.ZipkinCommon.csprojAssemblyReference.cache
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\bin\Debug\netcoreapp2.1\FanQuick.Config.dll
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\bin\Debug\netcoreapp2.1\FanQuick.Config.pdb
+E:\LearnWall\CsharpFanDemo\Demo.ZipkinCommon\obj\Debug\netcoreapp2.1\Demo.ZipkinCommon.csproj.CopyComplete

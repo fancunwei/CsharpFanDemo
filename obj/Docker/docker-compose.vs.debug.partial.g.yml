@@ -11,7 +11,7 @@ services:
       #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_demo.webapi$
     volumes:
       - E:\LearnWall\CsharpFanDemo\Demo.WebApi:C:\app
-      - C:\Users\hp\onecoremsvsmon:C:\remote_debugger:ro
+      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
 #$nuget_volume_mapping_demo.webapi$
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
     labels:
@@ -19,3 +19,43 @@ services:
       #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_demo.webapi$ bin\\Debug\\netcoreapp2.1\\Demo.WebApi.dll"
       com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
       com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
+
+  demo.zipkinweb:
+    image: demozipkinweb:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - NUGET_PACKAGES=C:\.nuget\packages
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_demo.zipkinweb$
+    volumes:
+      - E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb:C:\app
+      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+#$nuget_volume_mapping_demo.zipkinweb$
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_demo.zipkinweb$ bin\\Debug\\netcoreapp2.1\\Demo.ZipKinWeb.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+      com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
+
+
+  demo.zipkinweb2:
+    image: demozipkinweb2:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - NUGET_PACKAGES=C:\.nuget\packages
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_demo.zipkinweb2$
+    volumes:
+      - E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2:C:\app
+      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+#$nuget_volume_mapping_demo.zipkinweb2$
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_demo.zipkinweb2$ bin\\Debug\\netcoreapp2.1\\Demo.ZipKinWeb2.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+      com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
+

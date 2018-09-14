@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Concurrent;
+using System.Reflection.Emit;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -10,6 +11,7 @@ namespace Demo.QueueDemo
     {
         static void Main(string[] args)
         {
+            
             Task.Factory.StartNew(() =>
             {
                 //从队列中取元素。

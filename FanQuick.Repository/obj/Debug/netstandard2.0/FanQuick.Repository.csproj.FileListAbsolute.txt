@@ -1,0 +1,12 @@
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\bin\Debug\netstandard2.0\FanQuick.Repository.deps.json
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\bin\Debug\netstandard2.0\FanQuick.Repository.dll
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\bin\Debug\netstandard2.0\FanQuick.Repository.pdb
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\obj\Debug\netstandard2.0\FanQuick.Repository.csproj.CoreCompileInputs.cache
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\obj\Debug\netstandard2.0\FanQuick.Repository.AssemblyInfoInputs.cache
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\obj\Debug\netstandard2.0\FanQuick.Repository.AssemblyInfo.cs
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\obj\Debug\netstandard2.0\FanQuick.Repository.dll
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\obj\Debug\netstandard2.0\FanQuick.Repository.pdb
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\bin\Debug\netstandard2.0\FanQuick.Config.dll
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\bin\Debug\netstandard2.0\FanQuick.Config.pdb
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\obj\Debug\netstandard2.0\FanQuick.Repository.csprojAssemblyReference.cache
+E:\LearnWall\CsharpFanDemo\FanQuick.Repository\obj\Debug\netstandard2.0\FanQuick.Repository.csproj.CopyComplete

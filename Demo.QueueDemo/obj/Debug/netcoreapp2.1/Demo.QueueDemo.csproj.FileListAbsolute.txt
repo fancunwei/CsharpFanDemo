@@ -1,11 +1,11 @@
-E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.csproj.CoreCompileInputs.cache
-E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.AssemblyInfoInputs.cache
-E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.AssemblyInfo.cs
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\bin\Debug\netcoreapp2.1\Demo.QueueDemo.deps.json
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\bin\Debug\netcoreapp2.1\Demo.QueueDemo.runtimeconfig.json
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\bin\Debug\netcoreapp2.1\Demo.QueueDemo.runtimeconfig.dev.json
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\bin\Debug\netcoreapp2.1\Demo.QueueDemo.dll
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\bin\Debug\netcoreapp2.1\Demo.QueueDemo.pdb
+E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.csprojAssemblyReference.cache
+E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.csproj.CoreCompileInputs.cache
+E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.AssemblyInfoInputs.cache
+E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.AssemblyInfo.cs
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.dll
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.pdb
-E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.csprojAssemblyReference.cache

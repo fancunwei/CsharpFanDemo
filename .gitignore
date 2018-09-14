@@ -16,3 +16,7 @@
 /Demo.QueueDemo/obj/Debug/netcoreapp2.1/Demo.QueueDemo.csprojAssemblyReference.cache
 /Demo.QueueDemo/obj/Debug/netcoreapp2.1/Demo.QueueDemo.dll
 /Demo.QueueDemo/obj/Demo.QueueDemo.csproj.nuget.cache
+/Demo.DataSplider/obj/Debug/netcoreapp2.1/*.cache
+/Demo.DataSplider/obj/Release/netcoreapp2.1/*.cache
+*.cache
+*.pdb
