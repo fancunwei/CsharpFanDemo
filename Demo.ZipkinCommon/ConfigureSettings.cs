@@ -7,13 +7,22 @@ namespace Demo.ZipkinCommon
 {
     public class ConfigureSettings
     {
-        public static IConfiguration CreateConfiguration()
+        public static readonly IConfiguration AppSettingConfig;
+        static ConfigureSettings()
         {
             var builder = new ConfigurationBuilder()
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .AddEnvironmentVariables();
 
-            return builder.Build();
+            AppSettingConfig = builder.Build();
         }
+        //public static IConfiguration CreateConfiguration()
+        //{
+        //    var builder = new ConfigurationBuilder()
+        //        .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+        //        .AddEnvironmentVariables();
+
+        //    return builder.Build();
+        //}
     }
 }

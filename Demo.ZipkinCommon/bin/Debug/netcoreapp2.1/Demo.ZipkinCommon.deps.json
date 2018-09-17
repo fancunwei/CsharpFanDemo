@@ -13,7 +13,9 @@
           "Microsoft.Extensions.Configuration.Json": "2.1.1",
           "Microsoft.Extensions.Logging": "2.1.1",
           "zipkin4net": "1.2.3",
-          "zipkin4net.middleware.aspnetcore": "1.2.3"
+          "zipkin4net.middleware.aspnetcore": "1.2.3",
+          "Microsoft.AspNetCore.Mvc.Core": "2.1.1.0",
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.1.1.0"
         },
         "runtime": {
           "Demo.ZipkinCommon.dll": {}
@@ -1310,6 +1312,22 @@
         "runtime": {
           "FanQuick.Config.dll": {}
         }
+      },
+      "Microsoft.AspNetCore.Mvc.Core/2.1.1.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Mvc.Core.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.18157"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.ViewFeatures/2.1.1.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Mvc.ViewFeatures.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.18157"
+          }
+        }
       }
     }
   },
@@ -2119,6 +2137,16 @@
     },
     "FanQuick.Config/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Mvc.Core/2.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Mvc.ViewFeatures/2.1.1.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

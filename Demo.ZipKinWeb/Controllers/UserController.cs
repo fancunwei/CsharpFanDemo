@@ -30,6 +30,7 @@ namespace Demo.ZipKinWeb.Controllers
         [HttpGet]
         public IActionResult Get(string id)
         {
+            
             var r = _userService.Get(id);
             var n = r == null ? new User() : r;
 
@@ -45,14 +46,9 @@ namespace Demo.ZipKinWeb.Controllers
             _userService.AddUser(user);
 
             //模拟调用其他站点请求。
-            var client = new RestClient($"{ConfigEx.WebSite}");
-            var request = new RestRequest($"/user/get", Method.POST);
-            request.AddParameter("id", user.Id); // adds to POST or URL querystring based on Method
-
-            IRestResponse response = client.Execute(request);
-            var content = response.Content;
-            // return Json(new { data = content });
-            return Content(content + _addressService.Test());
+            var url = $"{ConfigEx.WebSite2}/user/get?id={user.Id}";
+            var content = HTTPHelper.GetAsync(url, null);
+            return Content(content.Result);
         }
         /// <summary>
         /// 更新

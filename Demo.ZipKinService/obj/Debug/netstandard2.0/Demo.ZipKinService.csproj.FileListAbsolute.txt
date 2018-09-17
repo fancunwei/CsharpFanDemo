@@ -2,8 +2,10 @@ E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\Demo.ZipK
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\Demo.ZipKinService.dll
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\Demo.ZipKinService.pdb
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\Demo.ZipKinModels.dll
+E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\FanQuick.Config.dll
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\FanQuick.Repository.dll
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\Demo.ZipKinModels.pdb
+E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\FanQuick.Config.pdb
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\FanQuick.Repository.pdb
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\obj\Debug\netstandard2.0\Demo.ZipKinService.csprojAssemblyReference.cache
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\obj\Debug\netstandard2.0\Demo.ZipKinService.csproj.CoreCompileInputs.cache
@@ -12,5 +14,3 @@ E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\obj\Debug\netstandard2.0\Demo.ZipK
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\obj\Debug\netstandard2.0\Demo.ZipKinService.csproj.CopyComplete
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\obj\Debug\netstandard2.0\Demo.ZipKinService.dll
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\obj\Debug\netstandard2.0\Demo.ZipKinService.pdb
-E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\FanQuick.Config.dll
-E:\LearnWall\CsharpFanDemo\Demo.ZipKinService\bin\Debug\netstandard2.0\FanQuick.Config.pdb

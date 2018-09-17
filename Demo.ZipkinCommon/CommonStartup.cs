@@ -29,7 +29,7 @@ namespace Demo.ZipkinCommon
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
 
-            var config = ConfigureSettings.CreateConfiguration();
+            var config = ConfigureSettings.AppSettingConfig;
 
             var applicationName = config["applicationName"];
             //if (env.IsDevelopment())
@@ -52,6 +52,7 @@ namespace Demo.ZipkinCommon
                 TraceManager.Start(logger);
             });
             lifetime.ApplicationStopped.Register(() => TraceManager.Stop());
+            //监控名称。
             app.UseTracing(applicationName);
             Run(app, config);
         }
