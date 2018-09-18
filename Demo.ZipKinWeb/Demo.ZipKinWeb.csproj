@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Demo.ZipkinCommon\Demo.ZipkinCommon.csproj" />
+    <ProjectReference Include="..\Demo.ZipKinModels\Demo.ZipKinModels.csproj" />
     <ProjectReference Include="..\Demo.ZipKinService\Demo.ZipKinService.csproj" />
   </ItemGroup>
 

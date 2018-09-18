@@ -4773,8 +4773,8 @@
     },
     "Demo.ZipKinModels/1.0.0": {
       "type": "project",
-      "path": "../../Demo.ZipKinModels/Demo.ZipKinModels.csproj",
-      "msbuildProject": "../../Demo.ZipKinModels/Demo.ZipKinModels.csproj"
+      "path": "../Demo.ZipKinModels/Demo.ZipKinModels.csproj",
+      "msbuildProject": "../Demo.ZipKinModels/Demo.ZipKinModels.csproj"
     },
     "FanQuick.Config/1.0.0": {
       "type": "project",
@@ -4825,8 +4825,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\LearnWall\\Demo.ZipKinModels\\Demo.ZipKinModels.csproj": {
-              "projectPath": "E:\\LearnWall\\Demo.ZipKinModels\\Demo.ZipKinModels.csproj"
+            "E:\\LearnWall\\CsharpFanDemo\\Demo.ZipKinModels\\Demo.ZipKinModels.csproj": {
+              "projectPath": "E:\\LearnWall\\CsharpFanDemo\\Demo.ZipKinModels\\Demo.ZipKinModels.csproj"
             }
           }
         }

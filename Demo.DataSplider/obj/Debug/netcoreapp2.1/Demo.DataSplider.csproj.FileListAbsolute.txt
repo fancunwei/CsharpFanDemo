@@ -21,3 +21,4 @@ E:\LearnWall\CsharpFanDemo\Demo.DataSplider\obj\Debug\netcoreapp2.1\Demo.DataSpl
 E:\LearnWall\CsharpFanDemo\Demo.DataSplider\obj\Debug\netcoreapp2.1\Demo.DataSplider.AssemblyInfo.cs
 E:\LearnWall\CsharpFanDemo\Demo.DataSplider\obj\Debug\netcoreapp2.1\Demo.DataSplider.dll
 E:\LearnWall\CsharpFanDemo\Demo.DataSplider\obj\Debug\netcoreapp2.1\Demo.DataSplider.pdb
+E:\LearnWall\CsharpFanDemo\Demo.DataSplider\obj\Debug\netcoreapp2.1\Demo.DataSplider.csprojAssemblyReference.cache

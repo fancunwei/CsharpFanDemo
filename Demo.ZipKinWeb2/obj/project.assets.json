@@ -13555,8 +13555,8 @@
     },
     "Demo.ZipKinModels/1.0.0": {
       "type": "project",
-      "path": "../../Demo.ZipKinModels/Demo.ZipKinModels.csproj",
-      "msbuildProject": "../../Demo.ZipKinModels/Demo.ZipKinModels.csproj"
+      "path": "../Demo.ZipKinModels/Demo.ZipKinModels.csproj",
+      "msbuildProject": "../Demo.ZipKinModels/Demo.ZipKinModels.csproj"
     },
     "Demo.ZipKinService/1.0.0": {
       "type": "project",
@@ -13576,6 +13576,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Demo.ZipKinModels >= 1.0.0",
       "Demo.ZipKinService >= 1.0.0",
       "Demo.ZipkinCommon >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
@@ -13618,6 +13619,9 @@
           "projectReferences": {
             "E:\\LearnWall\\CsharpFanDemo\\Demo.ZipkinCommon\\Demo.ZipkinCommon.csproj": {
               "projectPath": "E:\\LearnWall\\CsharpFanDemo\\Demo.ZipkinCommon\\Demo.ZipkinCommon.csproj"
+            },
+            "E:\\LearnWall\\CsharpFanDemo\\Demo.ZipKinModels\\Demo.ZipKinModels.csproj": {
+              "projectPath": "E:\\LearnWall\\CsharpFanDemo\\Demo.ZipKinModels\\Demo.ZipKinModels.csproj"
             },
             "E:\\LearnWall\\CsharpFanDemo\\Demo.ZipKinService\\Demo.ZipKinService.csproj": {
               "projectPath": "E:\\LearnWall\\CsharpFanDemo\\Demo.ZipKinService\\Demo.ZipKinService.csproj"

@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v2.1": {
       "Demo.ZipKinWeb/1.0.0": {
         "dependencies": {
+          "Demo.ZipKinModels": "1.0.0",
           "Demo.ZipKinService": "1.0.0",
           "Demo.ZipkinCommon": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
