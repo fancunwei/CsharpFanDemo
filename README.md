@@ -44,4 +44,6 @@
 
 [.NetCore实践爬虫系统（一）解析网页内容](https://www.cnblogs.com/fancunwei/p/9581168.html)
 
+[为什么我们要坚持写博客](https://www.cnblogs.com/fancunwei/p/9638624.html)
+
 本博客随笔几乎全部原创，必不让你失望！
