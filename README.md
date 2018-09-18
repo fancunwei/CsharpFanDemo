@@ -20,7 +20,7 @@
 ### Zipkin4NetDemo分布式追踪系统
 * Demo.ZipkinCommon 【分布式追踪站点公用Common】
 * Demo.ZipKinModels 【分布式追踪公用models】
-* Demo.ZipKinService【Demo.ZipKinService】
+* Demo.ZipKinService【公用Service】
 * Demo.ZipKinWeb 【演示站点1】
 * Demo.ZipKinWeb2【演示站点2】
 
