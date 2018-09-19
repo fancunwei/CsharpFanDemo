@@ -26,7 +26,7 @@
 * Demo.ZipKinWeb 【演示站点1】
 * Demo.ZipKinWeb2【演示站点2】
 
-这是我的学习研究实践的分布式调用链之路！
+这是我的学习分布式调用链的实践之路！
 
 思考大纲： [.Net架构篇:思考如何设计一款实用的分布式监控系统？](https://www.cnblogs.com/fancunwei/p/9625841.html)
 
@@ -35,6 +35,14 @@
 实践篇二：[.NetCore实践篇：分布式监控系统zipkin踩坑之路（二）](https://www.cnblogs.com/fancunwei/p/9649192.html)
 
 实践篇三：[.NetCore实践篇：成功解决分布式监控ZipKin聚合依赖问题（三）](https://www.cnblogs.com/fancunwei/p/9664749.html)
+
+本系列还在持续更新中。
+
+**最终目标**
+
+>能设计一款基于.NetCore的分布式调用链系统。
+
+>能提供代码无侵入的.NetCore客户端。
 
 ### 高质量博文
 还请大家关注我的其他高质量博文：
