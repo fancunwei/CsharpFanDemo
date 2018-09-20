@@ -1,59 +1,11 @@
 version: '3.4'
 
 services:
-  demo.web:
-    image: ${DOCKER_REGISTRY}demoweb
-    build:
-      context: .
-      dockerfile: Demo.Web\Dockerfile
-
   demo.webapi:
     image: ${DOCKER_REGISTRY}demowebapi
     build:
       context: .
       dockerfile: Demo.WebApi\Dockerfile
-
-
-  sso.fan.com:
-    image: ${DOCKER_REGISTRY}ssofancom
-    build:
-      context: .
-      dockerfile: sso.fan.com\Dockerfile
-
-
-  www.login1.com:
-    image: ${DOCKER_REGISTRY}wwwlogin1com
-    build:
-      context: .
-      dockerfile: www.login1.com\Dockerfile
-
-
-  www.login2.com:
-    image: ${DOCKER_REGISTRY}wwwlogin2com
-    build:
-      context: .
-      dockerfile: www.login2.com\Dockerfile
-
-
-  demo.zipkin:
-    image: ${DOCKER_REGISTRY}demozipkin
-    build:
-      context: .
-      dockerfile: Demo.ZipKin\Dockerfile
-
-
-  demo.zipkin2:
-    image: ${DOCKER_REGISTRY}demozipkin2
-    build:
-      context: .
-      dockerfile: Demo.ZipKin2\Dockerfile
-
-
-  demo.ziplin3:
-    image: ${DOCKER_REGISTRY}demoziplin3
-    build:
-      context: .
-      dockerfile: Demo.Ziplin3\Dockerfile
 
 
   demo.zipkinweb:
@@ -68,4 +20,11 @@ services:
     build:
       context: .
       dockerfile: Demo.ZipKinWeb2\Dockerfile
+
+
+  blogsync:
+    image: ${DOCKER_REGISTRY}blogsync
+    build:
+      context: .
+      dockerfile: BlogSYNC\Dockerfile
 
