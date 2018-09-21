@@ -36,6 +36,8 @@
 
 实践篇三：[.NetCore实践篇：成功解决分布式监控ZipKin聚合依赖问题（三）](https://www.cnblogs.com/fancunwei/p/9664749.html)
 
+实践篇四：[.NetCore实践篇：分布式监控Zipkin持久化之殇](https://www.cnblogs.com/fancunwei/p/9677952.html)
+
 本系列还在持续更新中。
 
 **最终目标**
