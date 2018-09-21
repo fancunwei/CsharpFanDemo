@@ -37,7 +37,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.ZipKinModels", "Demo.Z
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "博客同步", "博客同步", "{4447498A-42CE-42FC-A599-BE10D02E1514}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogSync", "BlogSYNC\BlogSync.csproj", "{34BB2148-1826-451A-99C6-FDA696E388EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogSync", "BlogSYNC\BlogSync.csproj", "{34BB2148-1826-451A-99C6-FDA696E388EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

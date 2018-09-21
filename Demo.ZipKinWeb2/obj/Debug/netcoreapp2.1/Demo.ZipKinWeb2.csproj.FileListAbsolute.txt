@@ -12,8 +12,8 @@ E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\bin\Debug\netcoreapp2.1\Demo.ZipKinSe
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\bin\Debug\netcoreapp2.1\FanQuick.Config.dll
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\bin\Debug\netcoreapp2.1\FanQuick.Repository.dll
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\bin\Debug\netcoreapp2.1\Demo.ZipkinCommon.pdb
-E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\bin\Debug\netcoreapp2.1\Demo.ZipKinService.pdb
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\bin\Debug\netcoreapp2.1\Demo.ZipKinModels.pdb
+E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\bin\Debug\netcoreapp2.1\Demo.ZipKinService.pdb
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\bin\Debug\netcoreapp2.1\FanQuick.Config.pdb
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\bin\Debug\netcoreapp2.1\FanQuick.Repository.pdb
 E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2\obj\Debug\netcoreapp2.1\Demo.ZipKinWeb2.csprojAssemblyReference.cache

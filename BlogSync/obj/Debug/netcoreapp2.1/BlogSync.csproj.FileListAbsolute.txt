@@ -8,6 +8,7 @@ E:\LearnWall\CsharpFanDemo\BlogSYNC\bin\Debug\netcoreapp2.1\BlogSync.Views.pdb
 E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.csproj.CoreCompileInputs.cache
 E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.RazorAssemblyInfo.cache
 E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.RazorAssemblyInfo.cs
+E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.AssemblyInfoInputs.cache
 E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.AssemblyInfo.cs
 E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.TagHelpers.input.cache
@@ -29,5 +30,3 @@ E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.Views.pdb
 E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.dll
 E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.pdb
 E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.csproj.CopyComplete
-E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
-E:\LearnWall\CsharpFanDemo\BlogSYNC\obj\Debug\netcoreapp2.1\BlogSync.csprojAssemblyReference.cache

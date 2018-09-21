@@ -8,4 +8,3 @@ E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.AssemblyInfo.cs
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.dll
 E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.pdb
-E:\LearnWall\CsharpFanDemo\Demo.QueueDemo\obj\Debug\netcoreapp2.1\Demo.QueueDemo.csprojAssemblyReference.cache
