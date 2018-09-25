@@ -28,3 +28,10 @@ services:
       context: .
       dockerfile: BlogSYNC\Dockerfile
 
+
+  demo.opentracing:
+    image: ${DOCKER_REGISTRY}demoopentracing
+    build:
+      context: .
+      dockerfile: Demo.OpenTracing\Dockerfile
+

@@ -1,19 +1,19 @@
 version: '3.4'
 
 services:
-  blogsync:
+  demo.opentracing:
     volumes:
-      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+      - C:\Users\hp\onecoremsvsmon:C:\remote_debugger:ro
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /fallbackloadremotemanagedpdbs /timeout:2147483646
     labels:
       com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
-      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_blogsync$ BlogSync.dll"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_demo.opentracing$ Demo.OpenTracing.dll"
       com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
       com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
 
   demo.webapi:
     volumes:
-      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+      - C:\Users\hp\onecoremsvsmon:C:\remote_debugger:ro
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /fallbackloadremotemanagedpdbs /timeout:2147483646
     labels:
       com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
@@ -24,7 +24,7 @@ services:
 
   demo.zipkinweb:
     volumes:
-      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+      - C:\Users\hp\onecoremsvsmon:C:\remote_debugger:ro
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /fallbackloadremotemanagedpdbs /timeout:2147483646
     labels:
       com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
@@ -35,7 +35,7 @@ services:
 
   demo.zipkinweb2:
     volumes:
-      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+      - C:\Users\hp\onecoremsvsmon:C:\remote_debugger:ro
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /fallbackloadremotemanagedpdbs /timeout:2147483646
     labels:
       com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
