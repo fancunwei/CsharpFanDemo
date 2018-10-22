@@ -35,3 +35,10 @@ services:
       context: .
       dockerfile: Demo.OpenTracing\Dockerfile
 
+
+  testdocker:
+    image: ${DOCKER_REGISTRY}testdocker
+    build:
+      context: .
+      dockerfile: TestDocker/Dockerfile
+

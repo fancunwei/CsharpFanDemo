@@ -11,7 +11,7 @@ services:
       #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_demo.opentracing$
     volumes:
       - E:\LearnWall\CsharpFanDemo\Demo.OpenTracing:C:\app
-      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+      - C:\Users\hp\onecoremsvsmon:C:\remote_debugger:ro
 #$nuget_volume_mapping_demo.opentracing$
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
     labels:
@@ -30,7 +30,7 @@ services:
       #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_demo.webapi$
     volumes:
       - E:\LearnWall\CsharpFanDemo\Demo.WebApi:C:\app
-      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+      - C:\Users\hp\onecoremsvsmon:C:\remote_debugger:ro
 #$nuget_volume_mapping_demo.webapi$
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
     labels:
@@ -50,7 +50,7 @@ services:
       #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_demo.zipkinweb$
     volumes:
       - E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb:C:\app
-      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+      - C:\Users\hp\onecoremsvsmon:C:\remote_debugger:ro
 #$nuget_volume_mapping_demo.zipkinweb$
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
     labels:
@@ -70,7 +70,7 @@ services:
       #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_demo.zipkinweb2$
     volumes:
       - E:\LearnWall\CsharpFanDemo\Demo.ZipKinWeb2:C:\app
-      - C:\Users\hp\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+      - C:\Users\hp\onecoremsvsmon:C:\remote_debugger:ro
 #$nuget_volume_mapping_demo.zipkinweb2$
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
     labels:
