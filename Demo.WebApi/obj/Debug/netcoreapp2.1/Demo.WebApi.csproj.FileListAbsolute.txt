@@ -3,6 +3,7 @@ E:\LearnWall\CsharpFanDemo\Demo.WebApi\bin\Debug\netcoreapp2.1\Demo.WebApi.runti
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\bin\Debug\netcoreapp2.1\Demo.WebApi.runtimeconfig.dev.json
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\bin\Debug\netcoreapp2.1\Demo.WebApi.dll
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\bin\Debug\netcoreapp2.1\Demo.WebApi.pdb
+E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.csprojAssemblyReference.cache
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.csproj.CoreCompileInputs.cache
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.RazorAssemblyInfo.cache
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.RazorAssemblyInfo.cs
@@ -12,4 +13,3 @@ E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.Assem
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.RazorTargetAssemblyInfo.cache
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.dll
 E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.pdb
-E:\LearnWall\CsharpFanDemo\Demo.WebApi\obj\Debug\netcoreapp2.1\Demo.WebApi.csprojAssemblyReference.cache

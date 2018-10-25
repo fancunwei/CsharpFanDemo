@@ -6,4 +6,3 @@ E:\LearnWall\CsharpFanDemo\FanQuick.Config\obj\Debug\netstandard2.0\FanQuick.Con
 E:\LearnWall\CsharpFanDemo\FanQuick.Config\obj\Debug\netstandard2.0\FanQuick.Config.AssemblyInfo.cs
 E:\LearnWall\CsharpFanDemo\FanQuick.Config\obj\Debug\netstandard2.0\FanQuick.Config.dll
 E:\LearnWall\CsharpFanDemo\FanQuick.Config\obj\Debug\netstandard2.0\FanQuick.Config.pdb
-E:\LearnWall\CsharpFanDemo\FanQuick.Config\obj\Debug\netstandard2.0\FanQuick.Config.csprojAssemblyReference.cache
