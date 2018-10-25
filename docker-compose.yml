@@ -22,23 +22,10 @@ services:
       dockerfile: Demo.ZipKinWeb2\Dockerfile
 
 
-  blogsync:
-    image: ${DOCKER_REGISTRY}blogsync
-    build:
-      context: .
-      dockerfile: BlogSYNC\Dockerfile
-
 
   demo.opentracing:
     image: ${DOCKER_REGISTRY}demoopentracing
     build:
       context: .
       dockerfile: Demo.OpenTracing\Dockerfile
-
-
-  testdocker:
-    image: ${DOCKER_REGISTRY}testdocker
-    build:
-      context: .
-      dockerfile: TestDocker/Dockerfile
 
