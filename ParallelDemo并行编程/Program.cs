@@ -27,7 +27,14 @@ namespace ParallelDemo
 
             // sim.HandleExceptionParallelLoop();
 
-            sim.SpeedUpMicroParallelBody();
+            // sim.SpeedUpMicroParallelBody();
+
+            var testlist = new TestList();
+            testlist.TestCount();
+            testlist.TestAny();
+            testlist.TestCount();
+            testlist.TestAny();
+
             Console.ReadLine();
         }
     }
